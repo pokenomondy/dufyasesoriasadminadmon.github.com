@@ -27,11 +27,19 @@ const RESOURCES = {"assets/AssetManifest.json": "3ac10d0b90a68b7a6d4c7458deef757
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
+<<<<<<< HEAD
 "index.html": "13844a8a69652c89a155f1b4b66d4f3b",
 "/": "13844a8a69652c89a155f1b4b66d4f3b",
 "main.dart.js": "11cf6bcd4e103fface904d4de4df2e45",
 "manifest.json": "5b9895d06a9e4a517790b35d60a9da8b",
 "version.json": "056f384927d8e2d09d8231af787b20ad"};
+=======
+"index.html": "6c68a598b907f465bff1942cd6abc775",
+"/": "6c68a598b907f465bff1942cd6abc775",
+"main.dart.js": "bf082f5d9aded387ccf699cfc9939615",
+"manifest.json": "86a669e17c0fbb1c29cc4c6431cb134f",
+"version.json": "d161a3b8471d953f90cb0cd2994969c3"};
+>>>>>>> parent of 09a5aa7 (Add files via upload)
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
