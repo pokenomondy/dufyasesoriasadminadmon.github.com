@@ -1,11 +1,11 @@
 {
-    "name": "dufyasesorias_flutter",
-    "short_name": "dufyasesorias_flutter",
+    "name": "dashboard_admin_flutter",
+    "short_name": "dashboard_admin_flutter",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Dufy asesorías.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
